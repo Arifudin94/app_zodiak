@@ -1,20 +1,6 @@
-# perpus
-aplikasi perpus PHP dan bootstrap
+# Zodiak
+aplikasi Zodiak PHP dan bootstrap
 
 <hr>
 Menu
-- Buku
-	- tampil
-	- edit
-	- cari
-	- hapus
-- Anggota
-	- tampil
-	- edit
-	- cari
-	- hapus
-- User
-	- tampil
-	- edit
-	- cari
-	- hapus
+-
